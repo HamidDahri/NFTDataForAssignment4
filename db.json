@@ -1,0 +1,49 @@
+{
+  "tokens": [
+    { 
+      "id":1,
+      "description": "wecanite land",
+      "image": "https://github.com/asimro/NFTdata/blob/main/imgs/1.png",
+            "external_url":"https://my-json-server.typicode.com/asimro/NFTdata/tokens/1",
+      "name": "wecanite",
+          "stage": "1st",
+          "rairity": "common"
+    },
+    { 
+      "id":2,
+      "description": "enefterium land",
+      "image": "https://github.com/asimro/NFTdata/blob/main/imgs/2.png",
+            "external_url":"https://my-json-server.typicode.com/asimro/NFTdata/tokens/2",
+      "name": "enefterium",
+          "stage": "1st",
+          "rairity": "rare"
+    },
+    { 
+      "id":3,
+      "description": "waxon land",
+      "image": "https://github.com/asimro/NFTdata/blob/main/imgs/3.png",
+            "external_url":"https://my-json-server.typicode.com/asimro/NFTdata/tokens/3",
+      "name": "waxon",
+          "stage": "1st",
+          "rairity": "unique"
+    },
+    { 
+      "id":4,
+      "description": "caponium land",
+      "image": "https://github.com/asimro/NFTdata/blob/main/imgs/4.png",
+            "external_url":"https://my-json-server.typicode.com/asimro/NFTdata/tokens/4",
+      "name": "caponium",
+          "stage": "1st",
+          "rairity": "super rare"
+    },
+    { 
+      "id":5,
+      "description": "Mteora land",
+      "image": "https://github.com/asimro/NFTdata/blob/main/imgs/5.png",
+            "external_url":"https://my-json-server.typicode.com/asimro/NFTdata/tokens/5",
+      "name": "Mteora",
+          "stage": "2nd",
+          "rairity": "very rare"
+    }
+  ]  
+}
