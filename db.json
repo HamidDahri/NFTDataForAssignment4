@@ -2,47 +2,47 @@
   "tokens": [
     { 
       "id":1,
-      "description": "wecanite land",
-      "image": "https://github.com/asimro/NFTdata/blob/main/imgs/1.png",
-            "external_url":"https://my-json-server.typicode.com/asimro/NFTdata/tokens/1",
-      "name": "wecanite",
-          "stage": "1st",
+      "description": "Angry_alien",
+      "image": "https://github.com/HamidDahri/NFTDataForAssignment4/blob/main/Images/Angry_alien.jpg",
+            "external_url":"https://my-json-server.typicode.com/HamidDahri/NFTDataForAssignment4/tokens/1",
+      "name": "Angry_alien",
+          "stage": "1",
           "rairity": "common"
     },
     { 
       "id":2,
-      "description": "enefterium land",
-      "image": "https://github.com/asimro/NFTdata/blob/main/imgs/2.png",
-            "external_url":"https://my-json-server.typicode.com/asimro/NFTdata/tokens/2",
-      "name": "enefterium",
-          "stage": "1st",
+      "description": "ChunkyBrain_alien",
+      "image": "https://github.com/HamidDahri/NFTDataForAssignment4/blob/main/ImagesChunkyBrain_alien.jpg/",
+            "external_url":"https://my-json-server.typicode.com/HamidDahri/NFTDataForAssignment4/tokens/2",
+      "name": "ChunkyBrain_alien",
+          "stage": "1",
           "rairity": "rare"
     },
     { 
       "id":3,
-      "description": "waxon land",
-      "image": "https://github.com/asimro/NFTdata/blob/main/imgs/3.png",
-            "external_url":"https://my-json-server.typicode.com/asimro/NFTdata/tokens/3",
-      "name": "waxon",
-          "stage": "1st",
+      "description": "DJ_Alien",
+      "image": "https://github.com/HamidDahri/NFTDataForAssignment4/blob/main/Images/DJ_Alien.jpg",
+            "external_url":"https://my-json-server.typicode.com/HamidDahri/NFTDataForAssignment4/tokens/3",
+      "name": "DJ_Alien",
+          "stage": "1",
           "rairity": "unique"
     },
     { 
       "id":4,
-      "description": "caponium land",
-      "image": "https://github.com/asimro/NFTdata/blob/main/imgs/4.png",
-            "external_url":"https://my-json-server.typicode.com/asimro/NFTdata/tokens/4",
-      "name": "caponium",
-          "stage": "1st",
+      "description": "Gangster_alien",
+      "image": "https://github.com/HamidDahri/NFTDataForAssignment4/blob/main/Images/Gangster_alien.jpg",
+            "external_url":"https://my-json-server.typicode.com/HamidDahri/NFTDataForAssignment4/tokens/4",
+      "name": "Gangster_alien",
+          "stage": "1",
           "rairity": "super rare"
     },
     { 
       "id":5,
-      "description": "Mteora land",
-      "image": "https://github.com/asimro/NFTdata/blob/main/imgs/5.png",
-            "external_url":"https://my-json-server.typicode.com/asimro/NFTdata/tokens/5",
-      "name": "Mteora",
-          "stage": "2nd",
+      "description": "Thinker_alien",
+      "image": "https://github.com/HamidDahri/NFTDataForAssignment4/blob/main/Images/Thinker_alien.jpg",
+            "external_url":"https://my-json-server.typicode.com/HamidDahri/NFTDataForAssignment4/tokens/5",
+      "name": "Thinker_alien",
+          "stage": "1",
           "rairity": "very rare"
     }
   ]  
